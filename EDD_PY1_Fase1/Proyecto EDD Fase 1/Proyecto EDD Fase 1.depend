@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1693422380 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodoempleados.cpp
+	"NodoEmpleados.h"
+	<string>
+
+1693422855 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodoempleados.h
+	<string>
+	"Empleado.h"
+
+1693456208 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\main.cpp
+	<iostream>
+	<string>
+	"ListaEmpleados.h"
+	"ColaPrioridad.h"
+	"ListaDoble.h"
+	"Matriz.h"
+
+1693411876 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\listaempleados.h
+	"NodoEmpleados.h"
+	<string>
+
+1693422832 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\listaempleados.cpp
+	"ListaEmpleados.h"
+	<string>
+	"NodoEmpleados.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693422493 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\empleado.cpp
+	"Empleado.h"
+
+1693422594 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\empleado.h
+	<string>
+
+1693452034 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\colaprioridad.cpp
+	"ColaPrioridad.h"
+	<string>
+
+1693447553 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\colaprioridad.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1693427906 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodocola.h
+	<string>
+	"Proyecto.h"
+
+1693451938 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\proyecto.h
+	<string>
+
+1693427955 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodocola.cpp
+	"NodoCola.h"
+
+1693451988 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\proyecto.cpp
+	"Proyecto.h"
+	<string>
+
+1693444820 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\listadoble.cpp
+	"ListaDoble.h"
+	<string>
+	<iostream>
+
+1693444757 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+
+1693433720 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodolistadoble.h
+	<string>
+
+1693433769 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693434208 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodomatriz.cpp
+	"NodoMatriz.h"
+
+1693434043 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\nodomatriz.h
+	<string>
+	"Proyecto.h"
+	"Empleado.h"
+	"ListaDoble.h"
+
+1693453190 source:c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\matriz.cpp
+	"Matriz.h"
+	<cstdlib>
+	<iostream>
+	<string>
+
+1693453115 c:\users\danie\onedrive\escritorio\university folders\segundo semestre 2023\estructura de datos\proyecto edd fase 1\include\matriz.h
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	<cstdlib>
+	"NodoMatriz.h"
+	"NodoEmpleados.h"
+	"ColaPrioridad.h"
+	"Proyecto.h"
+	"Empleado.h"
+	"ListaEmpleados.h"
+	"ListaDoble.h"
+	"NodoListaDoble.h"
+
